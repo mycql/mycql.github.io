@@ -1,169 +1,202 @@
 {
+	"meta": {
+		"theme": "spartan"
+	},
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Christopher Luna",
+    "label": "Software Engineer / Coder",
+    "picture": "/images/avatar.png",
+    "email": "mycql04@gmail.com",
+    "website": "https://mycql.github.io/coderna",
+    "summary": "Full stack engineer who simply loves coding. I enjoy being in a position to use tech to solve real world problems. #JuniorDevForLife",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+			"address":  "Woodlands, Singapore",
+      "city": "Singapore",
+      "countryCode": "SG"
     },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
-    ]
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "cqluna",
+				"url": "https://www.linkedin.com/in/cqluna"
+			},
+			{
+				"network": "GitHub",
+				"username": "mycql",
+				"url": "https://github.com/mycql"
+			}
+		]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "name": "UI"
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
+      "name": "programming languages"
     },
     {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
+      "name": "bioinformatics"
     },
     {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "name": "developer tools"
     }
   ],
   "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+		{
+			"company": "Thermo Fisher Scientific",
+			"position": "Senior Staff Software Engineer",
+			"website": "https://www.thermofisher.com",
+			"startDate": "2019-10-16",
+			"summary": "Continue to lead development team and ensure collaboration with the wider engineering organization.",
+			"highlights": [
+				"Lead the development of a new gene synthesis design and ordering portal for synthetic biology",
+				"Promoted to highest level for a technical staff within the company: started at level 2 as a new joiner",
+				"Tech Stack: See below"
+			]
+		},
+		{
+			"position": "Staff Software Engineer, Digital Engineering",
+			"startDate": "2017-05-01",
+			"endDate": "2019-10-15",
+			"summary": "Lead distributed development teams in Singapore and India and collaborate with R&D and engineering groups across Germany, USA and Mexico.",
+			"highlights": [
+				"Accelerate scientific research using advancements in gene synthesis, genome editing and bioinformatics through the development of design and analysis software",
+				"Drive revenue conversion for oligo and gene synthesis businesses through better e-commerce tools",
+				"Responsible for developing the core of synthetic biology platform services through microservices and messaging and core UI components using microfrontends leveraging on CustomEvents",
+				"Develop a markup language based, DNA/Protein sequence and feature graphical viewer, used across the entire synthetic biology cloud products suite",
+				"Guide the team into the development of rule engines responsible for making product configuration decisions based on regional availability and manufacturability constraints",
+				"Tech Stack: AWS (ECS, Lambda, API Gateway, CloudFormation, SWF, S3, RDS, IAM, SNS, SQS), Docker on ECS, HTML5/Sass/Typescript, AngularJS/Redux, SVG / Canvas, Java/Groovy/Scala, Spring/Guice"
+			]
+		},
+		{
+			"position": "Senior Software Engineer, Emerging Technologies",
+			"startDate": "2014-05-01",
+			"endDate": "2017-04-30",
+			"summary": "Architect bioinformatics solutions and tools and led the development of the company's molecular and synthetic biology visualization software and analysis tool suite.",
+			"highlights": [
+				"Instrumental in delivering 8 products to the cloud platform, in a span of a year either in a core contributor or lead role",
+				"Develop distributed services for the next generation cloud based synthetic biology platform and tools leveraging on key AWS services",
+				"Build CI/CD pipelines for synthetic biology cloud products",
+				"Coordinate with distributed, cross-functional teams of scientists, product managers and development teams, managing product requirements and execution",
+				"Tech Stack: AWS (EC2, CloudFormation, SWF, S3, RDS, DynamoDB, ElastiCache, IAM, SNS, SQS), Docker on Apache Mesos/Marathon, HTML5/Sass/Javascript, AngularJS, SVG/Canvas, Java/Groovy, Spring/Guice, C++/Python for algorithms"
+			]
+		},
+		{
+			"position": "Software Engineer, Bioinformatics",
+			"startDate": "2012-05-12",
+			"endDate": "2014-04-30",
+			"summary": "Lead the development of algorithms for multiple cloning technologies in synthetic biology",
+			"highlights": [
+				"Develop new software modules and libraries used across the company's premiere bioinformatics tool suite",
+				"Re-engineer multiple sequence alignment software resulting in drastic improvements in performance and efficiency",
+				"Liaise and collaborate with scientists and postdoctoral researchers in the academe, finding ways to improve existing software product offerings",
+				"Tech Stack: AWS, Core Java, MySQL / HSQL / H2, Eclipse RCP"
+			]
+		},
+		{
+			"company": "NCS Pte Ltd",
+			"position": "Senior Application Consultant",
+			"website": "https://www.ncs.com.sg",
+			"startDate": "2011-08-11",
+			"endDate": "2012-05-11",
+			"summary": "Technical Lead for SMS notification platform and common service framework for public facing service portals built on Oracle middleware and database technologies",
+			"highlights": [
+        "Tech Stack: Oracle Glassfish, JEE / Core Java, Oracle 11g/12c, Java Server Pages (JSP) with JQuery"
+			]
+		},
+		{
+			"company": "LeoTech Services Pte Ltd",
+			"position": "Software Developer",
+			"startDate": "2010-09-01",
+			"endDate": "2011-08-10",
+			"summary": "Software services startup with international clients. Part of an agile team responsible for building a highly concurrent, real-time dashboard for a financial system for high frequency trading based on Java technologies and frameworks, making heavy use of enterprise messaging",
+			"highlights": [
+				"Tech Stack: Oracle Glassfish, JBoss HornetQ message broker, Java / Groovy, Spring, MySQL, Google Web Toolkit (GWT)"
+			]
+		},
+		{
+			"company": "Blueblade Technologies",
+			"position": "Software Engineer",
+			"startDate": "2009-09-01",
+			"endDate": "2010-08-31",
+			"summary": "Full stack developer for company's flagship SaaS for sales automation and inventory management for SMEs (Small-Medium Enterprises)",
+			"highlights": [
+				"Startup environment where I am the core engineer responsible for the development of the application and backend architecture and management of GSM infrastructure",
+				"Delivered the pioneer releases of the product for customers, resulting in quicker turnaround for inventory and sales reporting for customers.",
+				"Built software on open-source technologies, hosted on a grid infrastructure (now known as cloud) and integrates with ERP systems (e.g. Netsuite)",
+				"Tech Stack: GoGrid (now part of Rackspace), Java, Spring, Google Web Toolkit (GWT), JGroups, MySQL, Apache Tomcat, Netsuite"
+			]
+		},
+		{
+			"company": "ROHM LSI Design",
+			"website": "https://www.rohm.com",
+			"position": "Layout Engineer",
+			"startDate": "2006-01-06",
+			"endDate": "2008-09-30",
+			"summary": "Started out as a layout engineer doing chip design. Eventually found my passion for software and developed layout automation tools for cell libraries",
+			"highlights": [
+				"Tech Stack: C/C++, Perl, bash scripts on UNIX (Solaris SPARC)"
+			]
+		}
+	],
+  "education": [{
+    "institution": "Don Bosco Technical College",
+    "area": "Electronics and Communications Engineering",
+    "studyType": "Bachelor",
+    "endDate": "2004-05-01"
+  }],
+  "skills": [
+		{
+			"name": "Frontend",
+			"level": "Master",
+			"keywords": [
+				"HTML / JSX",
+				"CSS / Sass",
+				"Typescript / Javascript",
+				"AngularJS / Redux / Hyperapp / React",
+				"SVG / Canvas / some WebGL on the side",
+				"Babel / Webpack / Gulp / Grunt",
+				"NodeJS"
+			]
+		},
+		{
+			"name": "Backend",
+			"level": "Master",
+			"keywords": [
+				"AWS",
+				"Java / Groovy ecosystem",
+				"Spring Boot / Spring ecosystem",
+				"Typescript / Javascript on NodeJS",
+				"Serverless"
+			]
+		},
+		{
+			"name": "CI/CD and Testing",
+			"level": "Master",
+			"keywords": [
+				"Jenkins CI",
+				"Travis CI",
+				"Cypress / Pupeteer",
+				"Jest / Karma / Mocha",
+				"JUnit / Mockito"
+			]
+		},
+		{
+			"name": "Monitoring",
+			"level": "Intermediate",
+			"keywords": [
+				"Splunk",
+				"Datadog",
+				"HotJar"
+			]
+		}
+	],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native or bilingual proficiency"
+	},
+	{
+    "language": "Filipino",
+    "fluency": "Native or bilingual proficiency"
+  }]
 }
