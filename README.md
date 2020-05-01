@@ -1,2 +1,1 @@
-### Simply redirects [https://mycql.github.io/coderna/](https://mycql.github.io/coderna/)
-
+# Technical Portfolio Page and Blog Site
